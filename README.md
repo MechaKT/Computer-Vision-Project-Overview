@@ -79,7 +79,7 @@ You can use one of the following tools for annotation:
 
     **Tutorials:** 
 
-      *Text:* [Annotate Your Image — Using Online Annotation Tool! | by Sabina Pokhrel | Towards Data Science](https://towardsdatascience.com/annotate-your-image-using-online-annotation-tool-52d0a742daff) 
+      *Text:* [Annotate Your Image — Using Online Annotation Tool! | by Sabina Pokhrel | Towards Data Science](https://medium.com/data-science/annotate-your-image-using-online-annotation-tool-52d0a742daff) 
 
      *Video:* https://youtu.be/7nYYb6vwCjM 
 
