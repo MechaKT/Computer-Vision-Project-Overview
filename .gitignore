@@ -1,0 +1,4 @@
+# redundant Drive download bundle
+baseline/*.zip
+__pycache__/
+*.cache

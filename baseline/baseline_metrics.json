@@ -1,0 +1,24 @@
+{
+  "run": "baseline",
+  "hyperparameters": {
+    "model": "yolov8n.pt",
+    "epochs": 50,
+    "imgsz": 640,
+    "batch": 16,
+    "lr0": 0.01,
+    "optimizer": "SGD",
+    "seed": 0
+  },
+  "test_metrics": {
+    "mAP50": 0.12800934505280795,
+    "mAP50-95": 0.043968584131994545,
+    "precision": 0.21453632463228103,
+    "recall": 0.22397756964681803,
+    "per_class_mAP50-95": {
+      "fireweed": 0.05740800676059925,
+      "himalayan_balsam": 0.06744993731822098,
+      "japanese_knotweed": 0.03880241882254547,
+      "purple_loosestrife": 0.01221397362661251
+    }
+  }
+}
