@@ -1,0 +1,17 @@
+{
+  "run": "image_size_tuning_480",
+  "hyperparameters": {
+    "model": "yolov8n-cls.pt",
+    "epochs": 100,
+    "patience": 15,
+    "imgsz": 480,
+    "batch": 16,
+    "lr0": 0.01,
+    "optimizer": "SGD",
+    "seed": 0
+  },
+  "test_metrics": {
+    "top1_accuracy": 0.9707112908363342,
+    "top5_accuracy": 0.9958158731460571
+  }
+}
